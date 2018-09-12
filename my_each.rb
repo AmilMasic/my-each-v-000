@@ -8,6 +8,7 @@ def my_each(collection) # put argument(s) here
     # else
 
   end
+  collection
 end
 my_each([]) do |word|
    word
