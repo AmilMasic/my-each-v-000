@@ -10,5 +10,5 @@ def my_each(collection) # put argument(s) here
   end
 end
 my_each([1,2,3,4]) do |word|
-  puts word
+   word
 end
