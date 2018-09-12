@@ -9,6 +9,6 @@ def my_each(collection) # put argument(s) here
 
   end
 end
-my_each([1,2,3,4]) do |word|
+my_each([]) do |word|
    word
 end
